@@ -138,6 +138,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+#FOLDEEEER
+input/*
+
 # pytype static type analyzer
 .pytype/
 
