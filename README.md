@@ -9,3 +9,4 @@ Kaggle directories are:
 
 * /kaggle/input (This is there the dataset is located)
 * /kaggle/working (his is the workspace directory)
+* /kaggle/weights (this is where we save the weights .pt)
